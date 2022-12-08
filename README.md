@@ -1,1 +1,1 @@
-# 6410-assignment-2
+Reads in a fasta file with a single sequence alongside a text file containing enzymes with cutting sites denoted as "^" to provide fragments, their length, and the position they are cut. The bases are separated into lines of 60 bases if fragments are longer than 60, and each line is grouped in bases of 10s.
